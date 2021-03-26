@@ -10,7 +10,7 @@
 </p>
 
 
-![demo](https://github.com/ank1traj/portfolio/blob/main/src/images/demo.png)
+![demo](https://user-images.githubusercontent.com/15426564/90930848-12dcd880-e419-11ea-8b58-ded1f587a3ec.png)
 
 ## 🚨 Forking this repo (please read!)
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ankit.cuchapter.tech/sitemap.xml
+Host: https://ankit.cuchapter.tech
