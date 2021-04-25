@@ -1,7 +1,7 @@
 ---
 date: '2020-27-05'
 title: 'Chief Technical Officer'
-company: 'ManKiBaat Pvt. Ltd.'
+company: 'ManKiBaat'
 location: 'Chandigarh, IN'
 range: 'May 2020 - March 2021'
 url: 'https://www.mankibaat.tech/'
