@@ -3,7 +3,7 @@ date: '27-10-2020'
 title: 'Content Writer'
 company: 'Geeks for Geeks'
 location: 'Remote'
-range: 'October - April 2021'
+range: 'October 2020 - April 2021'
 url: 'https://geeksforgeeks.com/'
 ---
 
