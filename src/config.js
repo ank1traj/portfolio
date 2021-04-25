@@ -11,16 +11,8 @@ module.exports = {
       url: 'https://www.instagram.com/ank1t_shrivastava',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ank1traj',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/',
     },
   ],
 
