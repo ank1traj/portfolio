@@ -54,7 +54,7 @@ const Contact = () => {
         👇just hit this in your terminal with npm installed👇
       </p>
 
-      <a className="email-link" href={'#'}>
+      <a className="email-link" href={'https://www.linkedin.com/in/ank1traj/'}>
         npx ank1t
       </a>
       <p></p>
