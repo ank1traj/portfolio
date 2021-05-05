@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A web app for codechef campus chapter. Check new, past, upcoming events. Check and download resources of various domain of of computer science. Join the club.
+A web app for codechef campus chapter. Check new, past, upcoming events. Check and download resources of various domain of computer science. Join the club.
