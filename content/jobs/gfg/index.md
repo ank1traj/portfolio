@@ -7,6 +7,6 @@ range: 'October 2020 - April 2021'
 url: 'https://geeksforgeeks.com/'
 ---
 
-- Submit work to editors for input and approval
-- Write a clear technical blog.
-- Prepare well-structured drafts using Content Management Systems.
+- Submitted work to editors for input and approval
+- Wrote some clear technical blogs.
+- Prepared well-structured drafts using Content Management Systems.
