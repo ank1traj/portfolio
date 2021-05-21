@@ -54,7 +54,7 @@ const Hero = () => {
     <p>
       I'm a Chandigarh-based software engineer who specializes in building (and occasionally designing)
       exceptional digital experiences. Currently, I'm an undergraduate at{' '}
-      <a href="https://cuchd.in/">Chandigarh University</a> focused on development, designing and cloud.
+      <a href="https://cuchd.in/" target="_blank">Chandigarh University</a> focused on development, designing and cloud.
     </p>
   );
   const five = (
