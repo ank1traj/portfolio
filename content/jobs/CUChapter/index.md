@@ -4,7 +4,7 @@ title: 'President'
 company: 'CU Chapter'
 location: 'Chandigarh, IN'
 range: 'Jan 2020 - Present'
-url: 'https://www.cuchapter.tec/'
+url: 'https://www.cuchapter.tech/'
 ---
 
 - Setting a broader vision for the campus and creating annual goals aligned to it.
