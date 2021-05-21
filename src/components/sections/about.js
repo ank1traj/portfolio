@@ -156,7 +156,7 @@ const About = () => {
               <a href="https://www.geeksforgeeks.org/">a huge corporation</a>, and{' '}
               <a href="http://cuchapter.tech/">a student-led coding platform</a>. My
               main focus these days is development, designing and cloud + doing undergraduation at
-              <a href="https://upstatement.com/">Chandigarh University</a>.
+              <a href="https://cuchd.in/">Chandigarh University</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
