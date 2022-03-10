@@ -3,7 +3,7 @@ date: '2020-05-20'
 title: 'Web Developer Intern'
 company: 'HoncHous'
 location: 'Remote'
-range: 'May - July 2020'
+range: 'May 2020 - July 2020'
 url: 'https://honchous.com/'
 ---
 

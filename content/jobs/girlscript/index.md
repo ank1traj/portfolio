@@ -3,7 +3,7 @@ date: '2020-06-20'
 title: 'Graphic Designer'
 company: 'GirlScript'
 location: 'Remote'
-range: 'June 2020 - Present'
+range: 'June 2020 - Feb 2021'
 url: 'http://www.girlscript.tech/'
 ---
 
