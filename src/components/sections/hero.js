@@ -52,9 +52,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build, deploy, maintain things for the web.</h3>;
   const four = (
     <p>
-      I'm a Chandigarh-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an undergraduate at{' '}
-      <a href="https://cuchd.in/" target="_blank">Chandigarh University</a> focused on development, designing and cloud.
+      A 22 Y/O Software🌈 and Web developer🎯 from India who loves to build, deploy & maintain things for the ☁️ 
+      and specializes in building (and occasionally designing) exceptional digital experiences. 
+      Meticulous and motivated graduate student indulged in competitive programming.{' '} Currently working as SDET at {' '}
+      <a href="https://hackerearth.com/" target="_blank">HackerEarth.</a>
     </p>
   );
   const five = (

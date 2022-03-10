@@ -133,7 +133,8 @@ const About = () => {
   }, []);
 
   const skills = ['JavaScript (ES6+)', 'React', 'HTML', 'CSS', 'Node.js(Limited)', 'Bootstrap', 'C', 'CPP', 'Python', 
-  'Ruby(Limited)', 'AWS(Limited)', 'Firebase(Limited)', 'MongoDB', 'PostreSQL(Limited)'];
+  'Ruby(Limited)', 'AWS(Limited)', 'Firebase(Limited)', 'MongoDB', 'PostreSQL(Limited)', "manual testing", "automation testing", "Selenium", "Jest", "JUnit", "TestNG", 
+  "Maven", "Jenkins", "codeception", "cypress"];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -151,6 +152,8 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
+              <a href="https://hackerearth.com">a product based company,</a> {' '}
+              <a href="https://rtcamp.com">a WordPress VIP Gold agency Partner,</a> {' '}
               <a href="http://www.girlscript.tech/">a design agency</a>,{' '}
               <a href="https://www.mbk-health.com/">a start-up</a>,{' '}
               <a href="https://www.geeksforgeeks.org/">a huge corporation</a>, and{' '}
