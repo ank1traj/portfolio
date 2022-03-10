@@ -7,6 +7,9 @@ range: 'May 2020 - March 2021'
 url: 'https://www.mankibaat.tech/'
 ---
 
-- Responsible for technical decisions at a mental health startup
-- Developed and shipped highly interactive web applications using react.js
-- Architected and implemented the front-end and back-end
+- Lead the development team that created the platform for AI-driven mental pocket doctor.
+- Worked with a team of designers, developers to build a platform to provide support to the patient having any mental issues like anxiety, depression.
+- Provided management oversight for the resources, budget and delivery of core technology services.
+- Provided identification and pursuit of innovation and strategic technical product and solutions that aligned with each industry vertical.
+- Developed and implemented repeatable and reusable technology frameworks.
+- Planned and developed next-generation technical capabilities necessary to satisfy the company’s direction for email, mobile, site data integration.
