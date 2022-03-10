@@ -7,7 +7,6 @@ range: 'June 2020 - Present'
 url: 'http://www.girlscript.tech/'
 ---
 
-- Developed illustrations, logos and other designs.
-- Used the appropriate colors and layouts for each graphic.
-- Worked with copywriters and creative director to produce final design
-
+- Designed illustrations, logo and other designs.
+- Used the appropriate colours and layouts for each graphic.
+- Worked with copywriters and creative directors to produce the final designs.
