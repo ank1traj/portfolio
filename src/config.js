@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/honesthacker_',
+      url: 'https://www.instagram.com/silent___notes',
     },
     {
       name: 'Linkedin',
@@ -40,7 +40,7 @@ module.exports = {
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
-  lastUpdated: '10-March-2022',
+  lastUpdated: '30-June-2022',
   srConfig: (delay = 200, viewFactor = 0.25) => ({
     origin: 'bottom',
     distance: '20px',
