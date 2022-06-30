@@ -50,16 +50,17 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch With me as a Web Developer</h2>
 
-      <p>
-        👇just hit this in your terminal with npm installed👇
-      </p>
+      <p>👇just hit this in your terminal with npm installed👇</p>
 
       <a className="email-link" href={'https://www.linkedin.com/in/ank1traj/'}>
-        npx ank1t
+        npx coderboy
       </a>
       <p></p>
       <br />
-      <p>I am currently looking for new opportunities, my inbox is always open. Whether you have a question or just want to say hi, I will try my best to get back to you!</p>    
+      <p>
+        I am currently looking for new opportunities, my inbox is always open. Whether you have a
+        question or just want to say hi, I will try my best to get back to you!
+      </p>
     </StyledContactSection>
   );
 };
