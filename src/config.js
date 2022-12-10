@@ -40,7 +40,7 @@ module.exports = {
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
-  lastUpdated: '30-June-2022',
+  lastUpdated: '11-December-2022',
   srConfig: (delay = 200, viewFactor = 0.25) => ({
     origin: 'bottom',
     distance: '20px',

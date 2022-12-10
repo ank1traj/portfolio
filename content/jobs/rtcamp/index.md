@@ -8,7 +8,7 @@ url: 'http://rtcamp.com/'
 ---
 
 - Manual Testing and automation testing on WordPress Site.
-- Managing project tasks, timelines, and communication.
+- Managed project tasks, timelines, and communication.
 - Developed 200+ test plans and test cases, including performance test plans and security test plans.
-- Developing and maintaining test frameworks
-- Developing and maintaining test automation scripts.
+- Developed and maintained test frameworks
+- Developed and maintained test automation scripts-
