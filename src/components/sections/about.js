@@ -133,7 +133,7 @@ const About = () => {
   }, []);
 
   const skills = ['JavaScript (ES6+)', 'React', 'HTML', 'CSS', 'Node.js(Limited)', 'Bootstrap', 'C', 'CPP', 'Python', 
-  'Ruby(Limited)', 'AWS(Limited)', 'Firebase(Limited)', 'MongoDB', 'PostreSQL(Limited)', "manual testing", "automation testing", "Selenium", "Jest", "JUnit", "TestNG", 
+  'Ruby(Limited)', 'AWS(Limited)', 'Firebase(Limited)', 'MongoDB', 'PostreSQL(Limited)', "manual testing", "automation testing", "Selenium", "Mocha", "locust", "Pact", "Jest", "JUnit", "TestNG", 
   "Maven", "Jenkins", "codeception", "cypress"];
 
   return (
